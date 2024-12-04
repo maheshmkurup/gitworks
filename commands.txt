@@ -12,3 +12,9 @@
 
 >push [for getting changes from local repository to remote repository]
 
+>git config --list [for list the configuration]
+
+>git config global --user.name "username" [for configuring username]
+
+>git config global --user.email "useremail" [for configuring user email]
+
