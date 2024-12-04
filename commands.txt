@@ -4,3 +4,11 @@
 
 >git add -A [adding all untracked files to staging area]
 
+>git commit -m "commit message" [add all fies from staging area to local repository]
+
+>git clone [to get exact copy from local repository to local workspace]
+
+>pull [for getting changes from local repository to local workspace]
+
+>push [for getting changes from local repository to remote repository]
+
